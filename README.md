@@ -143,4 +143,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Enhanced UI/UX:** Improve the Gradio interface with more interactive elements and better design.
 - **Advanced Query Processing:** Implement more sophisticated query understanding and context management.
 - **Scalability:** Optimize the system to handle larger PDFs and more concurrent users.
-- 
+
